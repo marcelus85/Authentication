@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Java/Declaration/Change class type parameter" />
+    <ignoreAction name="Java/Refactorings/Introduce local variable" />
   </component>
 </application>
